@@ -1,5 +1,3 @@
-export default config;
-
 import vercel from '@sveltejs/adapter-vercel';
 
 const config = {
